@@ -24,6 +24,7 @@ Install
         $ npm run serve
 
  -Install Axios (Library taking with backend)
-    npm install axios
+  npm install axios
+ 
  -Install Bulma (A CSS framework)
-    npm install bulma
+  npm install bulma
